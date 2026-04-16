@@ -1,0 +1,9 @@
+Comando:
+git worktree add -b feature-b ../wt-feature-b main
+
+Salida:
+(lista con 3 worktrees)
+
+Explicación:
+git branch crea solo la rama.
+git worktree add -b crea la rama y el directorio listo para usar.

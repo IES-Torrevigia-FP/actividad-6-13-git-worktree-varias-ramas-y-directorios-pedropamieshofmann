@@ -1,0 +1,12 @@
+Comando:
+git worktree remove ../wt-feature-a
+
+Antes:
+(3 worktrees)
+
+Después:
+(2 worktrees)
+
+Explicación:
+remove elimina el worktree.
+prune limpia referencias antiguas.
