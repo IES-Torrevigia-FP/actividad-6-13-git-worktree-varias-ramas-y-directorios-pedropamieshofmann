@@ -1,0 +1,6 @@
+Salida:
+(ruta_principal) main
+(../wt-feature-a) feature-a
+
+Explicación:
+Hay dos directorios: el principal (main) y otro separado para feature-a.

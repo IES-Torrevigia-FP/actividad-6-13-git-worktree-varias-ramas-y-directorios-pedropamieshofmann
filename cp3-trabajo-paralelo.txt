@@ -1,0 +1,10 @@
+Worktrees:
+(main)
+(wt-feature-a)
+
+Cambios:
+- main: cambio independiente
+- feature-a: detalles técnicos
+
+Explicación:
+Cada worktree trabaja en su propia rama sin interferir.
