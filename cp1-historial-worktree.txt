@@ -1,0 +1,5 @@
+Salida git log:
+(pega git log --oneline --all)
+
+Salida git branch:
+(pega git branch)
